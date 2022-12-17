@@ -1,0 +1,6 @@
+name: Poc
+version: '${version}'
+main: your.namespace.poc.PocPlugin
+api-version: 1.19
+prefix: Poc
+description: A Proof Of Concept project
